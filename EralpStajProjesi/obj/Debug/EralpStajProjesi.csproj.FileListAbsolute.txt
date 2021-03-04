@@ -1,0 +1,12 @@
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\bin\Debug\EralpStajProjesi.exe.config
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\bin\Debug\EralpStajProjesi.exe
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\bin\Debug\EralpStajProjesi.pdb
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.Giris.resources
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.Calisan.resources
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.Properties.Resources.resources
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.exe
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.pdb
+C:\Users\Kübra\source\repos\EralpStajProjesi\EralpStajProjesi\obj\Debug\EralpStajProjesi.Listele.resources
